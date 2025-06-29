@@ -1,6 +1,6 @@
 # Talkie
 
-### Under Progress 🧑‍💻 
+### Under Progress
 
 ### 📢 Connect with Me
 If you found this project helpful or have any suggestions, feel free to connect:
